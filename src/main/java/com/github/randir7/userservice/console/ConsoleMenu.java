@@ -1,10 +1,10 @@
-package com.github.randir7.hibernatetask.console;
+package com.github.randir7.userservice.console;
 
-import com.github.randir7.hibernatetask.entity.User;
-import com.github.randir7.hibernatetask.exception.DataAccessException;
-import com.github.randir7.hibernatetask.exception.UserNotFoundException;
-import com.github.randir7.hibernatetask.exception.ValidationException;
-import com.github.randir7.hibernatetask.service.UserService;
+import com.github.randir7.userservice.entity.User;
+import com.github.randir7.userservice.exception.DataAccessException;
+import com.github.randir7.userservice.exception.UserNotFoundException;
+import com.github.randir7.userservice.exception.ValidationException;
+import com.github.randir7.userservice.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

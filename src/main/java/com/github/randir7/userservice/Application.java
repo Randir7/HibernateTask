@@ -1,11 +1,11 @@
-package com.github.randir7.hibernatetask;
+package com.github.randir7.userservice;
 
-import com.github.randir7.hibernatetask.config.HibernateUtil;
-import com.github.randir7.hibernatetask.console.ConsoleMenu;
-import com.github.randir7.hibernatetask.console.ConsoleReader;
-import com.github.randir7.hibernatetask.dao.UserDao;
-import com.github.randir7.hibernatetask.dao.impl.UserDaoImpl;
-import com.github.randir7.hibernatetask.service.UserService;
+import com.github.randir7.userservice.config.HibernateUtil;
+import com.github.randir7.userservice.console.ConsoleMenu;
+import com.github.randir7.userservice.console.ConsoleReader;
+import com.github.randir7.userservice.dao.UserDao;
+import com.github.randir7.userservice.dao.impl.UserDaoImpl;
+import com.github.randir7.userservice.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

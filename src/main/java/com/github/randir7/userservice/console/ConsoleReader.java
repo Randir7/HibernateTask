@@ -1,4 +1,4 @@
-package com.github.randir7.hibernatetask.console;
+package com.github.randir7.userservice.console;
 
 import java.util.Scanner;
 

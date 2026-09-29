@@ -1,4 +1,4 @@
-package com.github.randir7.hibernatetask.exception;
+package com.github.randir7.userservice.exception;
 
 /**
  * Данные не прошли бизнес-валидацию.

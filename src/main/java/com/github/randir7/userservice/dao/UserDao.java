@@ -1,8 +1,6 @@
-package com.github.randir7.hibernatetask.dao;
+package com.github.randir7.userservice.dao;
 
-import com.github.randir7.hibernatetask.entity.User;
-import com.github.randir7.hibernatetask.exception.DataAccessException;
-import com.github.randir7.hibernatetask.exception.UserNotFoundException;
+import com.github.randir7.userservice.entity.User;
 
 import java.util.List;
 import java.util.Optional;

@@ -17,7 +17,7 @@
         <property name="hibernate.format_sql">true</property>
 
         <!-- Сущности, которые знает Hibernate -->
-        <mapping class="com.github.randir7.hibernatetask.entity.User"/>
+        <mapping class="com.github.randir7.userservice.entity.User"/>
 
     </session-factory>
 </hibernate-configuration>

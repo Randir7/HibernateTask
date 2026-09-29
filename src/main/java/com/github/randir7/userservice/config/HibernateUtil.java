@@ -1,4 +1,4 @@
-package com.github.randir7.hibernatetask.config;
+package com.github.randir7.userservice.config;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

@@ -1,9 +1,9 @@
-package com.github.randir7.hibernatetask.dao.impl;
+package com.github.randir7.userservice.dao.impl;
 
-import com.github.randir7.hibernatetask.dao.UserDao;
-import com.github.randir7.hibernatetask.entity.User;
-import com.github.randir7.hibernatetask.exception.DataAccessException;
-import com.github.randir7.hibernatetask.exception.UserNotFoundException;
+import com.github.randir7.userservice.dao.UserDao;
+import com.github.randir7.userservice.entity.User;
+import com.github.randir7.userservice.exception.DataAccessException;
+import com.github.randir7.userservice.exception.UserNotFoundException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

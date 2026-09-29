@@ -1,9 +1,9 @@
-package com.github.randir7.hibernatetask.service;
+package com.github.randir7.userservice.service;
 
-import com.github.randir7.hibernatetask.dao.UserDao;
-import com.github.randir7.hibernatetask.entity.User;
-import com.github.randir7.hibernatetask.exception.UserNotFoundException;
-import com.github.randir7.hibernatetask.exception.ValidationException;
+import com.github.randir7.userservice.dao.UserDao;
+import com.github.randir7.userservice.entity.User;
+import com.github.randir7.userservice.exception.UserNotFoundException;
+import com.github.randir7.userservice.exception.ValidationException;
 
 import java.util.List;
 import java.util.Optional;

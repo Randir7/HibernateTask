@@ -1,4 +1,4 @@
-package com.github.randir7.hibernatetask.exception;
+package com.github.randir7.userservice.exception;
 
 /**
  * Штатная ситуация (НЕ авария): пользователь с указанным id не найден в БД.
